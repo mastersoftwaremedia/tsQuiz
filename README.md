@@ -1,1 +1,1 @@
-### Creating React with TypeScript
+### Mini Trivia React App with TypeScript
